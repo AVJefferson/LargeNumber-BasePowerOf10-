@@ -1,0 +1,73 @@
+
+Debug/vc142.pdb
+Debug/vc142.idb
+Debug/LargeNumber(ANY BASE).pdb
+Debug/LargeNumber(ANY BASE).log
+Debug/LargeNumber(ANY BASE).ilk
+Debug/LargeNumber(ANY BASE).exe
+Debug/LargeNumber (ANY BASE).obj
+Debug/LargeNum.C1E20D39.tlog/link.write.1.tlog
+Debug/LargeNum.C1E20D39.tlog/link.read.1.tlog
+Debug/LargeNum.C1E20D39.tlog/link.command.1.tlog
+Debug/LargeNum.C1E20D39.tlog/LargeNumber(ANY BASE).lastbuildstate
+Debug/LargeNum.C1E20D39.tlog/CL.write.1.tlog
+Debug/LargeNum.C1E20D39.tlog/CL.read.1.tlog
+Debug/LargeNum.C1E20D39.tlog/CL.command.1.tlog
+Backup/LargeNumber (ANY BASE) Save 13 (10's Compliment Subtraction Stable) #1.cpp
+Backup/LargeNumber (ANY BASE) Save 12 (10's Compliment Subtraction).cpp
+Backup/LargeNumber (ANY BASE) Save 11 (Complete Re-building Stable Multiplication).cpp
+Backup/LargeNumber (ANY BASE) Save 10 (Complete Re-building) #3.cpp
+Backup/LargeNumber (ANY BASE) Save 10 (Complete Re-building) #2.cpp
+Backup/LargeNumber (ANY BASE) Save 10 (Complete Re-building) #1.cpp
+Backup/LargeNumber (ANY BASE) Save 09 (Multiplication Upgraded Partly Stable).cpp
+Backup/LargeNumber (ANY BASE) Save 08 (Subtract Upgraded Partly Stable).cpp
+Backup/LargeNumber (ANY BASE) Save 07 (Subtract Upgraded).cpp
+Backup/LargeNumber (ANY BASE) Save 06 (Divide Error).cpp
+Backup/LargeNumber (ANY BASE) Save 05 (Partly Stable).cpp
+Backup/LargeNumber (ANY BASE) Save 04.cpp
+Backup/LargeNumber (ANY BASE) Save 03.cpp
+Backup/LargeNumber (ANY BASE) Save 02.cpp
+Backup/LargeNumber (ANY BASE) Save 01.cpp
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/LargeNumber(ANY BASE)/v16/TestStore/0/testlog.manifest
+.vs/LargeNumber(ANY BASE)/v16/TestStore/0/000-0000.testlog
+.vs/LargeNumber(ANY BASE)/v16/ipch/AutoPCH/c858ce5b4fcbd40b/LARGENUMBER (ANY BASE).ipch
+.vs/LargeNumber(ANY BASE)/v16/ipch/AutoPCH/2f02fc63961d871b/LARGENUMBER (ANY BASE).ipch
+.vs/LargeNumber(ANY BASE)/v16/Browse.VC.db
+.vs/LargeNumber(ANY BASE)/v16/.suo
+.gitattributes
+LargeNumber(ANY BASE).sln
+LargeNumber(ANY BASE).vcxproj
+LargeNumber(ANY BASE).vcxproj.filters
+LargeNumber(ANY BASE).vcxproj.user
+x64/Debug/LargeNum.C1E20D39.tlog/CL.command.1.tlog
+x64/Debug/LargeNum.C1E20D39.tlog/CL.read.1.tlog
+x64/Debug/LargeNum.C1E20D39.tlog/CL.write.1.tlog
+x64/Debug/LargeNum.C1E20D39.tlog/LargeNumber(ANY BASE).lastbuildstate
+x64/Debug/LargeNum.C1E20D39.tlog/link.command.1.tlog
+x64/Debug/LargeNum.C1E20D39.tlog/link.read.1.tlog
+x64/Debug/LargeNum.C1E20D39.tlog/link.write.1.tlog
+x64/Debug/LargeNumber (ANY BASE).obj
+x64/Debug/LargeNumber(ANY BASE).exe
+x64/Debug/LargeNumber(ANY BASE).ilk
+x64/Debug/LargeNumber(ANY BASE).log
+x64/Debug/LargeNumber(ANY BASE).pdb
+x64/Debug/vc142.idb
+x64/Debug/vc142.pdb
+x64/Release/LargeNum.C1E20D39.tlog/CL.command.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/CL.read.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/CL.write.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/LargeNumber(ANY BASE).lastbuildstate
+x64/Release/LargeNum.C1E20D39.tlog/LargeNumber(ANY BASE).write.1u.tlog
+x64/Release/LargeNum.C1E20D39.tlog/link.command.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/link.delete.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/link.read.1.tlog
+x64/Release/LargeNum.C1E20D39.tlog/link.write.1.tlog
+x64/Release/LargeNumber (ANY BASE).obj
+x64/Release/LargeNumber(ANY BASE).exe
+x64/Release/LargeNumber(ANY BASE).iobj
+x64/Release/LargeNumber(ANY BASE).ipdb
+x64/Release/LargeNumber(ANY BASE).log
+x64/Release/LargeNumber(ANY BASE).pdb
+x64/Release/vc142.pdb
